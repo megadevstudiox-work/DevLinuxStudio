@@ -1,3 +1,6 @@
+https://www.youtube.com/watch?v=VB2c342Oqx0
+https://www.mediafire.com/file/1g2bkmmoyivosb4/devlinux_studio.zip/file 
+https://megadevstudiox.netlify.app/
 🚀 DevLinuxStudio
 DevLinuxStudio is a lightweight, cross-language Linux development suite designed for developers. It features a clean, custom "from scratch" architecture separating UI (Python/Tkinter) from Core engines (C++, C, Rust, Go, Java), complete with real-time output debugging, right-click file/asset management, and automated AppImage packaging.
 
